@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1574745658 source:/home/tomas/Escritorio/Practica2doParcial/2doParcial/inputs.c
+	"inputs.h"
+
+1574743187 /home/tomas/Escritorio/Practica2doParcial/2doParcial/inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<time.h>
+
+1574748048 source:/home/tomas/Escritorio/Practica2doParcial/2doParcial/Controller.c
+	"Controller.h"
+
+1574746899 /home/tomas/Escritorio/Practica2doParcial/2doParcial/Controller.h
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"Parser.h"
+
+1574743188 /home/tomas/Escritorio/Practica2doParcial/2doParcial/Parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"technicalsupport.h"
+
+1574743187 /home/tomas/Escritorio/Practica2doParcial/2doParcial/LinkedList.h
+
+1574747366 /home/tomas/Escritorio/Practica2doParcial/2doParcial/technicalsupport.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574743188 source:/home/tomas/Escritorio/Practica2doParcial/2doParcial/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574746959 source:/home/tomas/Escritorio/Practica2doParcial/2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
+1574748178 source:/home/tomas/Escritorio/Practica2doParcial/2doParcial/technicalsupport.c
+	"technicalsupport.h"
+
+1574747366 source:/home/tomas/Escritorio/Practica2doParcial/2doParcial/Parser.c
+	"Parser.h"
+
